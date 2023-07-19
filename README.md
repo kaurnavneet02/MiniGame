@@ -11,3 +11,4 @@ Paper wins against Rock.
 If both players choose the same option, it results in a tie.
 
 The main purpose of this project is to understand basic concepts of python.
+
